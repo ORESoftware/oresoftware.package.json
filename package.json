@@ -1,6 +1,6 @@
 {
   "name": "@oresoftware/oresoftware.package.json",
-  "version": "0.0.1001",
+  "version": "0.0.1002",
   "description": "package.json file for shell-based projects",
   "main": "index.js",
   "scripts": {
