@@ -1,0 +1,28 @@
+{
+  "name": "@oresoftware/oresoftware.package.json",
+  "version": "0.0.1001",
+  "description": "package.json file for shell-based projects",
+  "main": "index.js",
+  "scripts": {
+    "test": "suman test"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ORESoftware/oresoftware.package.json.git"
+  },
+  "keywords": [
+    "test",
+    "json",
+    "shell",
+    "bash"
+  ],
+  "author": "Olegzandr VD",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/ORESoftware/oresoftware.package.json/issues"
+  },
+  "homepage": "https://github.com/ORESoftware/oresoftware.package.json#readme",
+  "devDependencies": {
+    "r2g": "0.0.104"
+  }
+}
